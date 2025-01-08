@@ -80,4 +80,3 @@ STRIPE_SECRET_KEY: Your secret key from Stripe (backend).
 STRIPE_PUBLISHABLE_KEY: Your publishable key from Stripe (frontend).
 
 
-loom link - https://www.loom.com/share/98e454c610a24ac89863d68f5f0e6363?sid=f47393c4-e3ad-4a6f-a75e-a94489efbc54
